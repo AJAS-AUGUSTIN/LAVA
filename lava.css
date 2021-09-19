@@ -1,0 +1,233 @@
+.Mainheader
+{
+    position: fixed;
+    width: 100%;
+}
+.Header
+{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(255, 71, 111);
+    color: white;
+    font-family: 'Siri-Light', 'Siri-Thin', 'HelveticaNeu', Arial;
+    font-size: 13px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+.TrackOrder
+{
+    text-decoration: none;
+    margin-left: 480px;
+    color: white;
+    
+}
+.StoreAccount
+{
+    text-decoration: none;
+    color:white;
+    margin-left: 10px;
+}
+.CustomerService
+{
+    text-decoration: none;
+    color:white;
+    margin-left: 10px;
+}
+
+.SecondHeader
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Siri-Light', 'Siri-Thin', 'HelveticaNeu', Arial;
+    font-size: 15px;
+    
+    
+}
+.logo
+{
+    cursor: pointer;
+}
+
+.Products
+{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+}
+.Support
+{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+}
+.StoreLocator
+{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+}
+.AboutUs
+{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+}
+.Blog
+{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+}
+.text
+{
+    margin-left: 50px;   
+}
+.Content
+{
+    overflow: hidden;
+}
+.BigPhoto
+{
+    padding-top: 90px;
+    display: flex;
+    overflow-x: auto;
+}
+.BigPhoto::-webkit-scrollbar{
+    display: none;
+}
+.BigPhoto img
+{
+    width: 100%;
+    height: 635px;  
+}
+.ProductCategories
+{
+    font-family: 'Siri-Light';
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(245, 241, 241);
+    color: #232323;
+    background-color: #f1f1f1;
+    padding: 1px 0;
+    margin: 0;
+}
+
+.th5box
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+
+
+.Smartphones
+{
+    width: 70vw;
+    height: 700px;
+    padding-left: 0%;
+    margin: 0%; 
+    background-size: cover;  
+}
+.Smartphones img{
+    width: 50vw;
+}
+.FeaturePhones img
+{
+    margin-left:1px;
+    width: 50vw;
+    
+}
+.Others
+{
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0mm;
+
+}
+.OthersBottom
+{
+    justify-content: center;
+    align-items: center;
+    margin-left:1px;
+    margin-top: 0mm;
+}
+.laptop img
+{
+    margin-top: 0px;
+    margin-left:1px;
+    width: 24.5vw;   
+    height: 309px;
+    float: left;
+}
+.Accessories img
+{ margin-top: 0mm;
+  margin-left:1px;
+  width: 25vw;
+  float: left;
+  height: 309px;
+}
+.Footer
+{
+    font: normal 12px/16px 'Siri-Light', 'Siri-Thin', 'HelveticaNeu', Verdana;
+    width: 100%;
+    align-items: flex-start;
+    
+    
+}
+.details
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    
+}
+.latestPhones
+{
+    margin-left: 5%;
+}
+.lavacare
+{
+    margin-left: 5%;
+}
+.reachus
+{
+    margin-left: 5%;
+}
+.whoweare
+{
+    margin-left: 5%;
+}
+.sitemap
+{
+    margin-left: 5%;
+}
+#trademark
+{
+    padding-left: 50px;
+    color: #58595b;
+    font: normal 12px/24px 'Siri-Light','HelveticaNeu',Arial;
+}
+
+body
+{
+    justify-content: center;
+    background-color:#ffffff;
+    margin: 0%;
+}
+
+
